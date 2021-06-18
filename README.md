@@ -24,6 +24,44 @@ Face Products page
 ![image](https://user-images.githubusercontent.com/56188746/122574988-4e5c2980-d061-11eb-88c5-6774666d3121.png)
 
 
+Eyes page
+
+![image](https://user-images.githubusercontent.com/56188746/122575222-9418f200-d061-11eb-89de-18141dec2e57.png)
+
+Lips page
+
+![image](https://user-images.githubusercontent.com/56188746/122575303-aa26b280-d061-11eb-9ac4-68e5d036cf4a.png)
+
+
+MakeupBrush page    
+
+![image](https://user-images.githubusercontent.com/56188746/122575476-db9f7e00-d061-11eb-9496-ef6075cd3557.png)
+
+
+Accessories page
+
+![image](https://user-images.githubusercontent.com/56188746/122575633-fffb5a80-d061-11eb-91c9-73695f7522b8.png)
+
+
+Flash Sales page
+
+![image](https://user-images.githubusercontent.com/56188746/122575836-2de09f00-d062-11eb-9d83-8317e275401f.png)
+
+
+checkout page
+
+![image](https://user-images.githubusercontent.com/56188746/122576083-641e1e80-d062-11eb-8ae8-70856c30171e.png)
+
+
+Thank you page after doing the checkout
+
+![image](https://user-images.githubusercontent.com/56188746/122576231-857f0a80-d062-11eb-83aa-7ae419a20fb9.png)
+
+
+
+
+
+
 
 
 
